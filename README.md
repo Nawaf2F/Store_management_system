@@ -44,3 +44,33 @@ only for a special customer.
 of products(part of the main products in the store). Make sure he/she can buy
 only an exist product, remove it from store, then print the final information
 included the total price
+
+---
+## Additional
+
+A manager is an employee. He/she can remove a chosen product from the store directly
+without needing to a buy operation. If the employee is a manager, your system opens a
+special window. This window displays the current products in the store and asks the
+manager to enter the product ID. A resulted message appears after clicking to tell the
+manager whether the product was removed or not.
+
+---
+## The system must include
+
+1. Constructors for all classes.
+2. Final concept for all possible classes, all possible methods and at least two
+instance variables.
+3. Static variable.
+4. Access modifier: Private for all variables except interface or abstract (protected).
+5. Setter and getter methods if you need them.
+6. Array of your classes in the core classes and test class.
+7. Composition concept.
+8. Inheritance concept with override methods.
+9. Interface or abstract concepts.
+10. Upcasting and downcasting polymorphism.
+11. Graphical user interface (GUI)
+
+---
+## UML
+
+<img width="409" alt="image" src="https://user-images.githubusercontent.com/106151987/209433720-09075933-6839-49c5-b420-a5af29b38f64.png">
